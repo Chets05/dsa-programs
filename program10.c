@@ -1,4 +1,4 @@
-
+//quick sort
 
 #include <stdio.h>
 
